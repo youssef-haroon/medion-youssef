@@ -7,3 +7,6 @@
     "names": [],
     "file": "style.css"
 }
+#tg{
+height: 225px;
+}
