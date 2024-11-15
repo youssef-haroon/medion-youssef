@@ -9899,7 +9899,9 @@ a.text-danger:hover, a.text-danger:focus {
 .text-light {
   color: #f8f9fa !important;
 }
-
+#tg{
+height: 225px;
+}
 a.text-light:hover, a.text-light:focus {
   color: #cbd3da !important;
 }
